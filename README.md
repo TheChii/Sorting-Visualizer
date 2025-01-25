@@ -2,7 +2,7 @@
 
 A modern web-based visualization tool for various sorting algorithms with smooth animations and interactive controls.
 
-![Sorting Visualizer Demo](demo.gif) <!-- Add your demo gif here -->
+![{D5DD5DAD-2209-4C32-8090-4A71C3519BBE}](https://github.com/user-attachments/assets/e3b7f546-6b2a-4588-8222-ec3ae2ec4e11)
 
 ## ✨ Features
 
